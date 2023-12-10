@@ -1,61 +1,122 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
+    <meta charset="UTF-8">
     <title>CV de Luis Eduardo Castellanos Rodríguez</title>
-    <!-- Se pueden añadir estilos CSS aquí o en un archivo externo -->
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .cv-container {
+            width: 80%;
+            margin: 20px auto;
+            background-color: #ffffff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .cv-header {
+            text-align: center;
+            border-bottom: 2px solid #00a;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        .cv-header h1 {
+            color: #00a;
+            margin: 0;
+        }
+        .cv-section {
+            margin-bottom: 20px;
+        }
+        .cv-section-title {
+            background-color: #00a;
+            color: white;
+            font-size: 20px;
+            padding: 5px 10px;
+            margin: 0 -20px 10px -20px;
+        }
+        .cv-section-content {
+            padding-left: 20px;
+        }
+        .contact-info {
+            font-size: 16px;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 20px;
+            margin: 0;
+        }
+        li {
+            margin-bottom: 5px;
+            font-size: 14px;
+        }
+        .bold {
+            font-weight: bold;
+        }
+    </style>
 </head>
 <body>
-    <header>
-        <h1>Luis Eduardo Castellanos Rodríguez</h1>
-        <p>Teléfono: +57 350 293 8469</p>
-        <p>Correo Electrónico: le.castellanos10@uniandes.edu.co</p>
-    </header>
+    <div class="cv-container">
+        <div class="cv-header">
+            <h1>Luis Eduardo Castellanos Rodríguez</h1>
+            <p class="contact-info">
+                <span class="bold">Teléfono:</span> +57 350 293 8469<br>
+                <span class="bold">Correo Electrónico:</span> le.castellanos10@uniandes.edu.co
+            </p>
+        </div>
 
-    <section id="perfil">
-        <h2>Perfil</h2>
-        <p>Economista con habilidades en investigación, redacción académica, análisis econométrico y manejo de datos...</p>
-    </section>
+        <section class="cv-section">
+            <h2 class="cv-section-title">PERFIL</h2>
+            <p class="cv-section-content">Economista con fuertes habilidades en investigación, redacción académica, análisis econométrico y manejo de datos...</p>
+        </section>
 
-    <section id="educacion">
-        <h2>Educación</h2>
-        <ul>
-            <li>Maestría en Economía, Universidad de los Andes - enero 2023 - presente</li>
-            <li>Pregrado en Economía, Universidad Nacional de Colombia - 2017 - 2022</li>
-            <!-- Otros detalles de educación -->
-        </ul>
-    </section>
+        <section class="cv-section">
+            <h2 class="cv-section-title">EDUCACIÓN</h2>
+            <ul>
+                <li>Maestría en Economía, Universidad de los Andes - Enero 2023 - Presente | Promedio: 4.8</li>
+                <li>Pregrado en Economía, Universidad Nacional de Colombia - 2017 - 2022 | Promedio: 4.7</li>
+                <!-- Agregar más elementos educativos según sea necesario -->
+            </ul>
+        </section>
 
-    <section id="experiencia-laboral">
-        <h2>Experiencia Laboral Reciente</h2>
-        <ul>
-            <li>Profesional en Banco de la República, Sección de Educación Económica - julio 2023 - Presente</li>
-            <!-- Otras experiencias laborales -->
-        </ul>
-    </section>
+        <section class="cv-section">
+            <h2 class="cv-section-title">EXPERIENCIA LABORAL RECIENTE</h2>
+            <ul>
+                <li>Profesional en Banco de la República | Sección de Educación Económica - Junio 2023 - Presente</li>
+                <!-- Agregar más experiencias laborales según sea necesario -->
+            </ul>
+        </section>
 
-    <section id="experiencia-docente">
-        <h2>Experiencia Docente</h2>
-        <ul>
-            <li>Tutor en Historia del Pensamiento Económico, Universidad de los Andes - 2023</li>
-            <!-- Otras experiencias docentes -->
-        </ul>
-    </section>
+        <section class="cv-section">
+            <h2 class="cv-section-title">EXPERIENCIA DOCENTE</h2>
+            <ul>
+                <li>Tutor - Universidad de los Andes - Historia del Pensamiento Económico - 2023 - II</li>
+                <!-- Agregar más experiencias docentes según sea necesario -->
+            </ul>
+        </section>
 
-    <section id="publicaciones">
-        <h2>Publicaciones Recientes</h2>
-        <ul>
-            <li>Castellanos L. E. (2023). Opacidad y secreto financiero...</li>
-            <!-- Otras publicaciones -->
-        </ul>
-    </section>
+        <section class="cv-section">
+            <h2 class="cv-section-title">PUBLICACIONES RECIENTES</h2>
+            <ul>
+                <li>Castellanos, L. E. (2023). Opacidad y secreto financiero: entender sus impactos sobre la estabilidad fiscal, social en Colombia. En P. Ceballos & C. Silva (Eds.), Desafíos de la tributación global.</li>
+                <!-- Agregar más publicaciones según sea necesario -->
+            </ul>
+        </section>
 
-    <section id="competencias">
-        <h2>Competencias</h2>
-        <ul>
-            <li>Escritura académica, R y RStudio, STATA, Python, Eviews, Excel</li>
-            <li>Idiomas: Inglés C1, Alemán B1</li>
-        </ul>
-    </section>
-
+        <section class="cv-section">
+            <h2 class="cv-section-title">COMPETENCIAS</h2>
+            <ul>
+                <li>Escritura académica, R y RStudio, STATA, Python, Eviews, Excel</li>
+                <li>Idiomas: Inglés C1, Alemán B1</li>
+            </ul>
+        </section>
+    </div>
 </body>
 </html>
