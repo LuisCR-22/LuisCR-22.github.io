@@ -22,21 +22,24 @@ repository               : "LuisCR-22 / LuisCR-22.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Luis Eduardo Castellanos"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Mywork and academic experience have allowed me to develop research, critical thinking, and leadership
+ skills, supported by a deep commitment to quality and precision in data analysis and processing. I am
+ recognized for the thoroughness of my work, my passion for teaching, and my desire to make a significant
+ difference by positively impacting people’s well-being"
   location         : "Bogotá"
-  employer         : "Red Brick University"
+  employer         : "World Bank"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "le.castellanos10@uniandes.edu.co" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
