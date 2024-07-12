@@ -9,4 +9,4 @@ location: "Bogotá, Colombia"
 ---
 
  Assistant teacher- History of economic thoughts.
- Tutor- History of economic thoughts
+ Tutor- History of economic thoughts.

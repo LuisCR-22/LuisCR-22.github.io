@@ -8,4 +8,4 @@ date: 2021-02-01
 location: "Bogotá, Colombia"
 ---
 
- Econometrics I
+ Econometrics I.
