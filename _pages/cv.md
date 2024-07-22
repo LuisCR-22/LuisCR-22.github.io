@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="/files/CV__Luis_Castellanos.pdf" class="btn btn-primary" role="button">Descargar CV (PDF)</a>
+
 Education
 ======
 * Master in economics, Universidad de los andes, January 2023-Presesnt
