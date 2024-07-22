@@ -100,8 +100,8 @@ Teaching
   
 Distinctions
 ======
- * <b>Honors Degree</b>      Universidad Nacional de Colombia
+ * <b>Universidad Nacional de Colombia</b>       Honors Degree
  
- * <b>Francisco Pizano de Brigard Scholarship</b>       Universidad de los Andes
+ * <b>Universidad de los Andes</b>        Francisco Pizano de Brigard Scholarship
  
  
