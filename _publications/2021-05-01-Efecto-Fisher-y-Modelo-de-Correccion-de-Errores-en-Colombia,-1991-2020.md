@@ -1,7 +1,7 @@
 ---
 title: "Efecto Fisher y Modelo de Corrección de Errores en Colombia, 1991-2020"
 collection: publications
-permalink: /publication/2015-10-01-Efecto-Fisher-y-Modelo-de-Correccion-de-Errores-en-Colombia,-1991-2020
+permalink: /publication/2021-05-01-Efecto-Fisher-y-Modelo-de-Correccion-de-Errores-en-Colombia,-1991-2020
 excerpt: 'El presente ensayo analiza el efecto Fisher en Colombia durante el período 1991-2020.'
 date: 2021-05-01
 venue: 'Journal 2'

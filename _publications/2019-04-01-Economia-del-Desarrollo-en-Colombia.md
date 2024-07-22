@@ -1,7 +1,7 @@
 ---
 title: "Economía del Desarrollo en Colombia. Análisis de las coincidencias entre el paradigma propuesto por Rubén D. Utria y el enfoque de Amartya sen en las instituciones y libertades instrumentales"
 collection: publications
-permalink: /publication/2024-02-17-Economia-del-Desarrollo-en-Colombia
+permalink: /publication/2019-04-01-Economia-del-Desarrollo-en-Colombia
 excerpt: ' El presente ensayo busca, apoyándose en los aportes teóricos de Amartya Sen y Ruben Darío Utria, analizar el desarrollo en Colombia desde una perspectiva más completa que la ofrecida por la teoría económica tradicional, la cual ha confundido el desarrollo con crecimiento y ha tratado de cuantificar el nivel de desarrollo de los países por medio del Producto Interno Bruto (PIB) per cápita.'
 date: 2019-04-01
 venue: 'Journal 5'
