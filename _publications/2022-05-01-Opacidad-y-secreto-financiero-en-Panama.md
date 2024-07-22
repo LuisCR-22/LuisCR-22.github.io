@@ -1,7 +1,7 @@
 ---
 title: "Opacidad y secreto financiero en Panamá: entendiendo sus impactos sobre la estabilidad fiscal y social en Colombia"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2009-10-01-Opacidad-y-secreto-financiero-en-Panama
 excerpt: 'El objetivo del presente documento es brindarle al lector una introducción a la naturaleza de los Flujos Financieros Ilícitos (FFI) y dar claridad sobre la forma en que países como Colombia se ven afectados por las operaciones de opacidad y secretismo financiero en centros bancarios internacionales como Panamá.'
 date: 2022-05-01
 venue: 'Journal 1'

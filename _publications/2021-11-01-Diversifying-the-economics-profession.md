@@ -1,7 +1,7 @@
 ---
 title: "Diversifying the economics profession: the long road to overcoming discrimination and sub-representation of Hispanics and African Americans. An analysis of the United States between 1995-2019."
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2010-10-01-Diversifying-the-economics-profession
 excerpt: 'his paper analyses the dynamics related to the representation of African Americans and Hispanics in every level of economics within U.S. post-secondary institutions from 1995 to 2019.'
 date: 2021-11-01
 venue: 'Journal 3'
