@@ -17,9 +17,9 @@ Education
 
 Work experience
 ======
-* Short Term Temporary (STT)- World Bank
+*  <b>Short Term Temporary (STT)- World Bank
  Poverty and Equity Practice Group
- March 2023- Present
+ March 2023- Present</b>
 
   * Supported the construction of the semiannual report on poverty and inequality in Latin America and
   the Caribbean, focusing on the outcomes for Brazil and Mexico.
@@ -29,18 +29,18 @@ Work experience
   * Conducted a literature review on climate change and natural disasters for East Asia and the Pacific for
   the Social Protection & Labor EAP unit.
 
-* Research assistant- Yale University
+* <b>Research assistant- Yale University
  Dr. Carlos Felipe Balcazar
- October 2023- January 2024
+ October 2023- January 2024</b>
 
   * Successfully executed data management and harmonization on multiple datasets featuring detailed
   administrative data related to collective action in the U.S. during the COVID-19 crisis, utilizing OCR
   technology and data-cleaning methods in R, STATA, and Python.
   * Conducted literature reviews and achieved replication of key prior  studies.
 
-* Research assistant and co-author- Banco de la Rep´ ublica
+* <b>Research assistant and co-author- Banco de la Rep´ ublica
  Department of Communication and Economic Education
- April 2022- Abril 2023
+ April 2022- Abril 2023</b>
   * Developed comprehensive historical databases, successfully  harmonizing macroeconomic data on key
   variables from 1923 to 2023. Utilized this data, combined with findings from systematic literature
   reviews, to critically analyze the historical impact of the Colombian Central Bank on the nation’s
@@ -48,23 +48,23 @@ Work experience
   * Executed advanced time-series econometric analyses to explore the   long-term relationship between the
   surplus of means of payments and inflation in Colombia.
 
-* Consultant- World Bank
+* <b>Consultant- World Bank
   March 2022- July 2022
-  Social Protection & Labor EAP
+  Social Protection & Labor EAP</b>
   * Conducted meticulous, systematic searches in specialized databases, leading to a comprehensive lit
   erature review focused on practical and theoretical interventions for tackling social issues related to
   informality in developing countries.
 
-* Research assistant- Berkeley University
+* <b>Research assistant- Berkeley University
  March 2022- December 2022
- Dr. Yipei Zhang
+ Dr. Yipei Zhang</b>
   * Processed microdata from Colombia’s largest manufacturing survey to perform causal inference analysis,
   investigating the impact of tariff reforms on the Colombian enterprise ecosystem. This analysis was
   further enriched by conducting an extensive literature review on the commercial history of Colombia.
 
-* Contractor- Ministry of Finance of Colombia
+* <b>Contractor- Ministry of Finance of Colombia
  January 2022- April 2022
- Risk Subdirectorate
+ Risk Subdirectorate</b>
   * Implemented models to analyze the optimal issuance of sovereign bonds intended to finance health
   expenses in territorial entities. I supported the monthly preparation of the National Government Debt
   Profile.
@@ -100,8 +100,8 @@ Teaching
   
 Distinctions
 ======
- * Honors Degree      Universidad Nacional de Colombia
+ * <b>Honors Degree</b>      Universidad Nacional de Colombia
  
- * Francisco Pizano de Brigard Scholarship       Universidad de los Andes
+ * <b>Francisco Pizano de Brigard Scholarship</b>       Universidad de los Andes
  
  
