@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-*  <b>Short Term Temporary (STT)- World Bank
+* <b>Short Term Temporary (STT)- World Bank
  Poverty and Equity Practice Group
  March 2023- Present</b>
 
@@ -40,7 +40,7 @@ Work experience
   technology and data-cleaning methods in R, STATA, and Python.
   * Conducted literature reviews and achieved replication of key prior  studies.
 
-* <b>Research assistant and co-author- Banco de la Rep´ ublica
+* <b>Research assistant and co-author- Banco de la República
  Department of Communication and Economic Education
  April 2022- Abril 2023</b>
   * Developed comprehensive historical databases, successfully  harmonizing macroeconomic data on key

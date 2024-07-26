@@ -1,12 +1,12 @@
 ---
-title: "Efecto Fisher y Modelo de Corrección de Errores en Colombia, 1991-2020"
+title: "Fisher Effect and Error Correction Model in Colombia, 1991-2020."
 collection: publications
 permalink: /publication/2021-05-01-Efecto-Fisher-y-Modelo-de-Correccion-de-Errores-en-Colombia,-1991-2020
-excerpt: 'El presente ensayo analiza el efecto Fisher en Colombia durante el período 1991-2020.'
+excerpt: 'This essay analyzes the Fisher effect in Colombia during the period 1991-2020'
 date: 2021-05-01
-venue: 'Journal 2'
-paperurl: 'http://LuisCR-22.github.io/files/EfectoFisherymodelodecorreccindeerroresenColombia1991-2020.pdf'
-citation: 'Castellanos Rodriguez, Luis & Dueñas, Crisitian & Ipuz, Juan & León, Andrés. (2021). Efecto Fisher y Modelo de Corrección de Errores en Colombia, 1991-2020. '
+venue: 'Econografos Escuela de Economía N.º 165'
+paperurl: 'https://fce.unal.edu.co/centro-editorial/docs/econografos-escuela-economia/165-efecto-fisher-y-modelo-de-correccion-de-errores-en-colombia-1991-2020'
+citation: 'Castellanos Rodriguez, Luis & Dueñas, Crisitian & Ipuz, Juan & León, Andrés. (2021). Efecto Fisher y Modelo de Corrección de Errores en Colombia, 1991-2020.'
 ---
 
-El presente ensayo analiza el efecto Fisher en Colombia durante el período 1991-2020. Se hace uso de la tasa de interés de los depósitos a término fijo y la tasa de inflación en frecuencia mensual. Los resultados evidencian no estacionariedad en las variables y una relación de cointegración entre estas. Sin embargo, la transmisión de la inflación a la tasa de interés no es completa en el largo plazo, lo cual evidencia un efecto Fisher parcial. Finalmente, se realiza un modelo de corrección de errores para identificar la velocidad de ajuste entre el corto y el largo plazo.
+This essay analyzes the Fisher effect in Colombia during the period 1991-2020. We use the interest rate of fixed-term deposits and the inflation rate on a monthly basis. The variables are non-stationary and there is a cointegration relationship between them. However, the transmission of inflation to the interest rate is not complete in the long term, therefore there is only a partial Fisher effect. Finally, an error correction model is carried out to identify the speed of adjustment between the short and long term.
